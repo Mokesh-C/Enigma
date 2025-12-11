@@ -181,11 +181,6 @@ export default function EnigmaMachine() {
             <p className="text-slate-500 text-xs mb-2">
               Identical rotor positions enable bidirectional encryption • Built with historical accuracy
             </p>
-            <div className="pt-2 mt-2">
-              <p className="text-slate-400 text-xs">
-                <strong>Created by:</strong> <span className="text-blue-400">Dharani Kumar S</span> • <span className="text-slate-500">(24-PMT-048)</span>
-              </p>
-            </div>
           </div>
         </div>
       </div>
